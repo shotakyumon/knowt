@@ -1,0 +1,1 @@
+{"nfs":{"/var/www/html":{"type":"nfs","guestpath":"/var/www/html","hostpath":"/Users/ShotaKyumon/projects/smorldapp","disabled":false,"__vagrantfile":true,"map_uid":501,"map_gid":20,"nfs_udp":true,"nfs_version":3,"uuid":"1592991308"}},"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/ShotaKyumon/projects/smorldapp/smorld","disabled":false,"__vagrantfile":true}}}
